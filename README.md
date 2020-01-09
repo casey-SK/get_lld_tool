@@ -19,7 +19,7 @@ Work in Progress
 ![](https://github.com/casey-SK/get_lld_tool/blob/master/img/get_lld_program_example_2020-01-09.png)
 
 ## TODO
-- [] Modify Settings UI to enable user input
+- [ ] Modify Settings UI to enable user input
 - [] Enable plugin to store user defined defaults (location of lld layer)
 - [] Return function for OK and Apply buttons
 - [] Create print message (with GoTo button) when a user tries to click on the canvas without defining an LLD layer
