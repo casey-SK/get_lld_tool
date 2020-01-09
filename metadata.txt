@@ -1,0 +1,7 @@
+[general]
+name=Get LLD Tool
+description=This plugin displays the Legal Land Description (Township, Range, Section, & Quarter Section) in a message bar. For use in Saskatchewan only.
+version=1.0
+qgisMinimumVersion=3.0
+author=Casey McMahon
+email=mcplmcmahon@gmail.com
