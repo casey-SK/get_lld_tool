@@ -20,8 +20,8 @@ Work in Progress
 
 ## TODO
 - [ ] Modify Settings UI to enable user input
-- [] Enable plugin to store user defined defaults (location of lld layer)
-- [] Return function for OK and Apply buttons
-- [] Create print message (with GoTo button) when a user tries to click on the canvas without defining an LLD layer
-- [] Add buffer around points to prevent road allowances from confusing users
-- [] Create print message when invalid location is picked (something like 'outside of provided grid extent')
+- [ ] Enable plugin to store user defined defaults (location of lld layer)
+- [ ] Return function for OK and Apply buttons
+- [ ] Create print message (with GoTo button) when a user tries to click on the canvas without defining an LLD layer
+- [ ] Add buffer around points to prevent road allowances from confusing users
+- [ ] Create print message when invalid location is picked (something like 'outside of provided grid extent')
