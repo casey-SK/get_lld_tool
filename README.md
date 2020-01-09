@@ -4,7 +4,7 @@
 
 ## What is it?
 
-Get LLD Tool is a QGIS plugin to get Legal Land Description (Township Reference System) of a point using a toggle button. A useful tool for when a coworker asks you for a LLD while your working in QGIS. The Township Reference System is used across the three prairie provinces of Canada ( also known as ATS, SaskGrid, & DLS). It also sees some use in the USA northern states.
+Get LLD Tool is a QGIS plugin to get the Legal Land Description (Township Reference System) of a point using a toggle button. A useful tool for when a coworker asks you for a LLD while your working in QGIS. The Township Reference System is used across the three prairie provinces of Canada ( also known as ATS, SaskGrid, & DLS). It also sees some use in the USA northern states.
 
 The tool toggles on and off like the editing button. While turned on, a new cursor appears on the map canvas. If you click on the canvas, a message bar will appear telling you the LLD of the location you just clicked on. 
 
